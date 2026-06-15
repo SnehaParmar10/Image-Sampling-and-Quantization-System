@@ -1,5 +1,4 @@
-111
-.# 📄 AI-Powered Document Scanner and Image Processing System
+# 📄 AI-Powered Document Scanner and Image Processing System
 
 ## 📌 Overview
 This project implements a complete document scanner system using Python and OpenCV.  
